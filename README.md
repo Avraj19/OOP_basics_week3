@@ -15,4 +15,7 @@ Other learning objective:
 - Following best practices
 
 ## Definitions
-These we will add 
+
+#### Class
+Class are blueprints for an objects. Inside we define objects characteristics and behaviors it can do.
+With 
